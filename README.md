@@ -1,4 +1,4 @@
-# cool-highlight-syntax.vim
+# cool-syntax-highlight.vim
 
 A simple basic syntax highlighting plugin for the lenguage COOL (Classroom Object Oriented Language).
 
