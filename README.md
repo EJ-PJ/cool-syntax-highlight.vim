@@ -13,7 +13,7 @@ mkdir -p ~/.vim/ftdetect/
 
 #Adding .cl file type
 cd ~/.vim/ftdetect/
-touch cool.vim && printf "au BufRead,BufNewFile *.cl set filetype=cl" >> cool.vim
+echo "au BufRead,BufNewFile *.cl set filetype=cl" >> cool.vim
 ```
 
 Add file type detection to the '.vimrc' file
